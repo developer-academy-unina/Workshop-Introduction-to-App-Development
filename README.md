@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Workshop</h3>
-  <h1>App Development Part 1</h1>
+  <h1>Introduction to App Development</h1>
   <br />
   <a href="https://github.com/developer-academy-unina/app-development-part-1/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
