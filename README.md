@@ -35,6 +35,13 @@
 
 An introduction to app development with SwiftUI, in this workshop you will create a list of items based on a simple data source. Follow along and by the end you can have access to the project created during the workshop by downloading it from the repository.
 
+In this workshop, you will cover:
+- How to create an iOS project with Xcode
+- How to create interface elements using SwiftUI
+- How to run your project on the simulator
+- How to preview your project using Xcode Previews
+- How to create a list in SwiftUI
+
 ## Getting Started
 
 ### Installation
