@@ -18,6 +18,7 @@ struct ContentView: View {
                     HStack {
                         Image(systemName: "person.fill")
                             .foregroundStyle(learner.favouriteColour)
+                        
                         Text("\(learner.name) \(learner.surname)")
                     }
                 }
@@ -25,6 +26,7 @@ struct ContentView: View {
             .navigationTitle("Learners")
         }
     }
+    
 }
 
 #Preview {
